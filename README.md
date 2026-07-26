@@ -42,6 +42,8 @@ Get the latest build from the **[Releases](../../releases)** page just run the `
 
 **First launch:** the macro asks you to verify with Discord. Click the button, authorise, and access unlocks on its own. You need to be in the Discord server with the access role.
 
+**Antivirus:** unsigned, so SmartScreen will warn on first run. VirusTotal scan for the current release https://www.virustotal.com/gui/file/d6cb5355eea9b77aa5b16502fc919ee52e7e7fb5c7a11fc88a1299b5f5df4b97
+
 ## Community
 
 - **Discord:** https://discord.gg/4wQPsBSg
