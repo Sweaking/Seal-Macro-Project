@@ -43,6 +43,11 @@ Get the latest build from the **[Releases](../../releases)** page just run the `
 **First launch:** the macro asks you to verify with Discord. Click the button, authorise, and access unlocks on its own. You need to be in the Discord server with the access role.
 
 **Antivirus:** unsigned, so SmartScreen will warn on first run. VirusTotal scan for the current release https://www.virustotal.com/gui/file/d6cb5355eea9b77aa5b16502fc919ee52e7e7fb5c7a11fc88a1299b5f5df4b97
+Two versions — same macro, same features. The only difference is file size and how antivirus reacts to it.
+
+Seal Macro (Full) 460 MB Uncompressed, so antivirus is less likely to flag it (usually 1/68, just a generic Bkav hit).
+Seal Macro (Compact) 140 MB Compressed to keep the download small. Antivirus sometimes adds a false "Wacatac" flag from the compression (usually 2/68) Same exact program
+Both are unsigned, so Windows SmartScreen will warn on first launch either way → More info → Run anyway. Neither is "safer" than the other they're the identical macro. Pick whichever tradeoff you prefer smaller download, or a cleaner scan.
 
 ## Community
 
